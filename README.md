@@ -14,10 +14,11 @@ I specialize in C++, C#, and have substantial experience in game engines like Un
 
 I actively participate in game jams and course projects to hone my skills. Here are a few highlights:
 
-- AssAssIn: A fast-paced, action-packed two-player party game developed as a final course project.
-- Just Suck: A minimalist casual game that won the Third Prize at the G-bits Game Jam 2023.
-- C++ Software Renderer: A foundational project building a simple software renderer from scratch to understand the graphics pipeline.
-- Hmxs Toolkit: A personal collection of reusable Unity modules, systems, and tools, including an object pool, event manager, and more.
+- [AssAssIn](https://hmxsqaq.github.io/projects/assassin.html): A fast-paced, action-packed two-player party game developed as a final course project.
+- [Just Suck](https://hmxsqaq.github.io/projects/just_suck.html): A minimalist casual game that won the Third Prize at the G-bits Game Jam 2023.
+- [C++ Software Renderer](https://hmxsqaq.github.io/projects/cpp_renderer.html): A foundational project building a simple software renderer from scratch to understand the graphics pipeline.
+- [Procedural Terrain Generation Using Perlin Noise](https://hmxsqaq.github.io/projects/procedural_terrain_generation.html): Exploring the principles, implementation, and practical applications of the Perlin noise algorithm in procedural generation from a beginner's perspective.
+- [Hmxs Toolkit](https://github.com/hmxsqaq/Graphics-HmxsRenderer): A personal collection of reusable Unity modules, systems, and tools, including an object pool, event manager, and more.
 
 ### 🌟 What I'm Up to Now
 
