@@ -26,7 +26,7 @@ I'm channeling my energy into becoming a more capable game programmer by diving 
 
 I'm open to collaboration and exciting opportunities in the gaming industry. 
 
-**Let's build something amazing together!**
+**Let's create something extraordinary together!**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmxsqaq)
 
