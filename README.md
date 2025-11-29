@@ -19,5 +19,3 @@ Specializing in C++ and C#, working across Unity, Godot, and Unreal Engine.
 Diving deeper into graphics programming and preparing for graduate studies in game development.
 
 **Let's create something extraordinary together!**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmxsqaq)
