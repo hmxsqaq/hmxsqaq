@@ -1,6 +1,6 @@
-### 👋 Hi! I'm 伍泽华 (ZeHua Wu)
+### 👋 Hi! I'm ZeHua Wu (伍泽华)
 
-Game Developer | Digital Media Technology @ Communication University of China
+Game Developer | MSCS @ New York University
 
 ### 💻 Technical Focus
 
@@ -16,6 +16,6 @@ Specializing in C++ and C#, working across Unity, Godot, and Unreal Engine.
 
 ### 🌟 What I'm Up to Now
 
-Diving deeper into graphics programming and preparing for graduate studies in game development.
+Diving deeper into graphics programming and pursuing my master's degree at NYU.
 
 **Let's create something extraordinary together!**
